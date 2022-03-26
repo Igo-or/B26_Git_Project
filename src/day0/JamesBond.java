@@ -1,6 +1,6 @@
 package day0;
 
-
+public class JamesBond {
 /* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Pellentesque aliquam massa id justo molestie elementum.
 Phasellus dictum est id nulla varius, a sollicitudin nibh semper.
